@@ -1,0 +1,18 @@
+Change Component DesignItemId : Designator=C1 Old DesignItemId=CAP 0603 New DesignItemId=CAP 0805
+Change Component DesignItemId : Designator=C7 Old DesignItemId=CAP 0603 New DesignItemId=CAP 0805
+Change Component DesignItemId : Designator=C11 Old DesignItemId=CAP 0603 New DesignItemId=CAP 0805
+Change Component DesignItemId : Designator=C17 Old DesignItemId=CAP 0603 New DesignItemId=CAP 0805
+Change Component DesignItemId : Designator=R2 Old DesignItemId=RES 0603 New DesignItemId=RES 0805
+Change Component DesignItemId : Designator=R12 Old DesignItemId=RES 0603 New DesignItemId=RES 0805
+Change Component Footprint: Designator=C1 Old Footprint=CAP: 0603 New Footprint=CAP: 0805
+Change Component Footprint: Designator=C7 Old Footprint=CAP: 0603 New Footprint=CAP: 0805
+Change Component Footprint: Designator=C11 Old Footprint=CAP: 0603 New Footprint=CAP: 0805
+Change Component Footprint: Designator=C17 Old Footprint=CAP: 0603 New Footprint=CAP: 0805
+Change Component Footprint: Designator=R2 Old Footprint=RES: 0603 New Footprint=RES: 0805
+Change Component Footprint: Designator=R12 Old Footprint=RES: 0603 New Footprint=RES: 0805
+Change Component Description : Designator=C1 Old Description=CAP SMD 0603 New Description=CAP SMD 0805
+Change Component Description : Designator=C7 Old Description=CAP SMD 0603 New Description=CAP SMD 0805
+Change Component Description : Designator=C11 Old Description=CAP SMD 0603 New Description=CAP SMD 0805
+Change Component Description : Designator=C17 Old Description=CAP SMD 0603 New Description=CAP SMD 0805
+Change Component Description : Designator=R2 Old Description=RES SMD 0603 New Description=RES SMD 0805
+Change Component Description : Designator=R12 Old Description=RES SMD 0603 New Description=RES SMD 0805

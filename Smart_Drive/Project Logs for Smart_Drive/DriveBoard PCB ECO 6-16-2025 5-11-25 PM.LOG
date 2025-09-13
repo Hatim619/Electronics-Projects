@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VM_L Pin=C11-2
+Removed Pin From Net: NetName=VM_L Pin=C12-2
+Removed Pin From Net: NetName=VM_L Pin=C13-2
+Removed Pin From Net: NetName=VM_L Pin=C14-2
+Removed Pin From Net: NetName=VM_L Pin=C15-2
+Removed Pin From Net: NetName=VM_L Pin=C16-2
+Removed Pin From Net: NetName=VM_L Pin=FET6-2
+Added Pin To Net: NetName=VM_R_ Pin=C11-2
+Added Pin To Net: NetName=VM_R_ Pin=C12-2
+Added Pin To Net: NetName=VM_R_ Pin=C13-2
+Added Pin To Net: NetName=VM_R_ Pin=C14-2
+Added Pin To Net: NetName=VM_R_ Pin=C15-2
+Added Pin To Net: NetName=VM_R_ Pin=C16-2
+Added Pin To Net: NetName=VM_R_ Pin=FET6-2
+Added Net: Name=VM_R_

@@ -1,0 +1,422 @@
+Added Component: Designator=C1(CAP: 0603)
+Added Component: Designator=C2(CAP_AL_5MMX12MM)
+Added Component: Designator=C3(CAP: 0603)
+Added Component: Designator=C4(CAP: 0603)
+Added Component: Designator=C5(CAP: 0603)
+Added Component: Designator=C6(CAP: 0603)
+Added Component: Designator=C7(CAP: 0603)
+Added Component: Designator=C8(CAP_AL_5MMX12MM)
+Added Component: Designator=C9(CAP: 0603)
+Added Component: Designator=C10(CAP: 0603)
+Added Component: Designator=C11(CAP: 0603)
+Added Component: Designator=C12(CAP: 0603)
+Added Component: Designator=D1(DIODE SMA)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "750-CDBA3100-HF"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DO-214AA)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "652-SMBJ36A"; VariantName = "[No Variations]"
+Added Component: Designator=D3(LED: 0603Y)
+Added Component: Designator=D4(LED: 0603R)
+Added Component: Designator=D5(DO-214AA)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "652-SMBJ36A"; VariantName = "[No Variations]"
+Added Component: Designator=D6(DIODE SMA)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "750-CDBA3100-HF"; VariantName = "[No Variations]"
+Added Component: Designator=D7(LED: 0603Y)
+Added Component: Designator=D8(LED: 0603R)
+Added Component: Designator=F1(FUSE: 5x20 Holder)
+Added Component: Designator=F2(FUSE: 5x20 Holder)
+Added Component: Designator=FET1(TO220-3)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "511-STP75NF75"; VariantName = "[No Variations]"
+Added Component: Designator=FET2(TO220-3)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "511-STP75NF75"; VariantName = "[No Variations]"
+Added Component: Designator=FET3(TO220-3)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "511-STP75NF75"; VariantName = "[No Variations]"
+Added Component: Designator=FET4(TO220-3)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "511-STP75NF75"; VariantName = "[No Variations]"
+Added Component: Designator=FET5(TO220-3)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "511-STP75NF75"; VariantName = "[No Variations]"
+Added Component: Designator=FET6(TO220-3)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "511-STP75NF75"; VariantName = "[No Variations]"
+Added Component: Designator=FET7(TO220-3)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "511-STP75NF75"; VariantName = "[No Variations]"
+Added Component: Designator=FET8(TO220-3)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "511-STP75NF75"; VariantName = "[No Variations]"
+Added Component: Designator=FET9(TO220-3)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "511-STP75NF75"; VariantName = "[No Variations]"
+Added Component: Designator=FET10(TO220-3)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "511-STP75NF75"; VariantName = "[No Variations]"
+Added Component: Designator=HS1(HSS-B20-NP-06)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-HSS-B20-NP-06"; VariantName = "[No Variations]"
+Added Component: Designator=HS2(HSS-B20-NP-06)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-HSS-B20-NP-06"; VariantName = "[No Variations]"
+Added Component: Designator=HS3(HSS-B20-NP-06)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-HSS-B20-NP-06"; VariantName = "[No Variations]"
+Added Component: Designator=HS4(HSS-B20-NP-06)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-HSS-B20-NP-06"; VariantName = "[No Variations]"
+Added Component: Designator=HS5(HSS-B20-NP-06)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-HSS-B20-NP-06"; VariantName = "[No Variations]"
+Added Component: Designator=HS6(HSS-B20-NP-06)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-HSS-B20-NP-06"; VariantName = "[No Variations]"
+Added Component: Designator=HS7(HSS-B20-NP-06)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-HSS-B20-NP-06"; VariantName = "[No Variations]"
+Added Component: Designator=HS8(HSS-B20-NP-06)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-HSS-B20-NP-06"; VariantName = "[No Variations]"
+Added Component: Designator=HS9(HSS-B20-NP-06)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-HSS-B20-NP-06"; VariantName = "[No Variations]"
+Added Component: Designator=HS10(HSS-B20-NP-06)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-HSS-B20-NP-06"; VariantName = "[No Variations]"
+Added Component: Designator=J1(CONN2_710002_WRE - duplicate)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "710-691213710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=J2(CONN2_710002_WRE - duplicate)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "710-691213710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=J3(CON: PLS-5)
+Added Component: Designator=J4(CONN2_710002_WRE - duplicate)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "710-691213710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=J5(CON: PLS-5)
+Added Component: Designator=J6(CONN2_710002_WRE - duplicate)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "710-691213710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=MH1(M3 Mounting Hole)
+Added Component: Designator=MH2(M3 Mounting Hole)
+Added Component: Designator=MH3(M3 Mounting Hole)
+Added Component: Designator=MH4(M3 Mounting Hole)
+Added Component: Designator=Q1(SOT23_3)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "621-BC846B-7-F"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT23_3)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "621-BC846B-7-F"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES: 0603)
+Added Component: Designator=R2(RES: 0603)
+Added Component: Designator=R3(RES: 0603)
+Added Component: Designator=R4(RES: 0603)
+Added Component: Designator=R5(RES: 0603)
+Added Component: Designator=R6(RES: 0603)
+Added Component: Designator=R7(RES: 2512)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "708-CSNL2512FT15L0"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES: 0603)
+Added Component: Designator=R9(RES: 0603)
+Added Component: Designator=R10(RES: 0603)
+Added Component: Designator=R11(RES: 0603)
+Added Component: Designator=R12(RES: 0603)
+Added Component: Designator=R13(RES: 0603)
+Added Component: Designator=R14(RES: 0603)
+Added Component: Designator=R15(RES: 0603)
+Added Component: Designator=R16(RES: 0603)
+Added Component: Designator=R17(RES: 2512)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "708-CSNL2512FT15L0"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES: 0603)
+Added Component: Designator=R19(RES: 0603)
+Added Component: Designator=R20(RES: 0603)
+Added Component: Designator=U1(VQFN-24)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "595-DRV8701PRGER"; VariantName = "[No Variations]"
+Added Component: Designator=U2(VQFN-24)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "595-DRV8701PRGER"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VM_L Pin=C1-2
+Added Pin To Net: NetName=VM_L Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=VCP_L Pin=C3-1
+Added Pin To Net: NetName=VM_L Pin=C3-2
+Added Pin To Net: NetName=CPL_L Pin=C4-1
+Added Pin To Net: NetName=CPH_L Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=DVDD_L Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=AVDD_L Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=VM_L Pin=C7-2
+Added Pin To Net: NetName=VM_L Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=VCP_R Pin=C9-1
+Added Pin To Net: NetName=VM_L Pin=C9-2
+Added Pin To Net: NetName=CPL_R Pin=C10-1
+Added Pin To Net: NetName=CPH_R Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=DVDD_R Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=AVDD_R Pin=C12-2
+Added Pin To Net: NetName=RP_L_E Pin=D1-1
+Added Pin To Net: NetName=VA Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=VA Pin=D2-2
+Added Pin To Net: NetName=SNS_L Pin=D3-1
+Added Pin To Net: NetName=OCP_L Pin=D3-2
+Added Pin To Net: NetName=FLT_L Pin=D4-1
+Added Pin To Net: NetName=NFLT_L Pin=D4-2
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=VB Pin=D5-2
+Added Pin To Net: NetName=RP_R_E Pin=D6-1
+Added Pin To Net: NetName=VB Pin=D6-2
+Added Pin To Net: NetName=SNS_R Pin=D7-1
+Added Pin To Net: NetName=OCP_R Pin=D7-2
+Added Pin To Net: NetName=FLT_R Pin=D8-1
+Added Pin To Net: NetName=NFLT_R Pin=D8-2
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=VA Pin=F1-2
+Added Pin To Net: NetName=NetF2_1 Pin=F2-1
+Added Pin To Net: NetName=VB Pin=F2-2
+Added Pin To Net: NetName=RP_L_C Pin=FET1-1
+Added Pin To Net: NetName=VM_L Pin=FET1-2
+Added Pin To Net: NetName=VA Pin=FET1-3
+Added Pin To Net: NetName=GH1_L Pin=FET2-1
+Added Pin To Net: NetName=VM_L Pin=FET2-2
+Added Pin To Net: NetName=VL+ Pin=FET2-3
+Added Pin To Net: NetName=GH2_L Pin=FET3-1
+Added Pin To Net: NetName=VM_L Pin=FET3-2
+Added Pin To Net: NetName=VL- Pin=FET3-3
+Added Pin To Net: NetName=GL1_L Pin=FET4-1
+Added Pin To Net: NetName=VL+ Pin=FET4-2
+Added Pin To Net: NetName=SP_L Pin=FET4-3
+Added Pin To Net: NetName=GL2_L Pin=FET5-1
+Added Pin To Net: NetName=VL- Pin=FET5-2
+Added Pin To Net: NetName=SP_L Pin=FET5-3
+Added Pin To Net: NetName=RP_R_C Pin=FET6-1
+Added Pin To Net: NetName=VM_L Pin=FET6-2
+Added Pin To Net: NetName=VB Pin=FET6-3
+Added Pin To Net: NetName=GH1_R Pin=FET7-1
+Added Pin To Net: NetName=VM_L Pin=FET7-2
+Added Pin To Net: NetName=VR+ Pin=FET7-3
+Added Pin To Net: NetName=GH2_R Pin=FET8-1
+Added Pin To Net: NetName=VM_L Pin=FET8-2
+Added Pin To Net: NetName=VR- Pin=FET8-3
+Added Pin To Net: NetName=GL1_R Pin=FET9-1
+Added Pin To Net: NetName=VR+ Pin=FET9-2
+Added Pin To Net: NetName=SP_R Pin=FET9-3
+Added Pin To Net: NetName=GL2_R Pin=FET10-1
+Added Pin To Net: NetName=VR- Pin=FET10-2
+Added Pin To Net: NetName=SP_R Pin=FET10-3
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=NetF1_1 Pin=J1-2
+Added Pin To Net: NetName=VL+ Pin=J2-1
+Added Pin To Net: NetName=VL- Pin=J2-2
+Added Pin To Net: NetName=DVDD_L Pin=J3-1
+Added Pin To Net: NetName=AVDD_L Pin=J3-2
+Added Pin To Net: NetName=EN_L/IN2_L Pin=J3-3
+Added Pin To Net: NetName=DIR_L/IN1_L Pin=J3-4
+Added Pin To Net: NetName=SLP_L Pin=J3-5
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=NetF2_1 Pin=J4-2
+Added Pin To Net: NetName=DVDD_R Pin=J5-1
+Added Pin To Net: NetName=AVDD_R Pin=J5-2
+Added Pin To Net: NetName=EN_R/IN2_R Pin=J5-3
+Added Pin To Net: NetName=DIR_R/IN1_R Pin=J5-4
+Added Pin To Net: NetName=SLP_R Pin=J5-5
+Added Pin To Net: NetName=VR+ Pin=J6-1
+Added Pin To Net: NetName=VR- Pin=J6-2
+Added Pin To Net: NetName=GND Pin=MH1-1
+Added Pin To Net: NetName=GND Pin=MH2-1
+Added Pin To Net: NetName=GND Pin=MH3-1
+Added Pin To Net: NetName=GND Pin=MH4-1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=RP_L_E Pin=Q1-2
+Added Pin To Net: NetName=RP_L_C Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=RP_R_E Pin=Q2-2
+Added Pin To Net: NetName=RP_R_C Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R1-2
+Added Pin To Net: NetName=VCP_L Pin=R2-1
+Added Pin To Net: NetName=RP_L_C Pin=R2-2
+Added Pin To Net: NetName=NFLT_L Pin=R3-1
+Added Pin To Net: NetName=DVDD_L Pin=R3-2
+Added Pin To Net: NetName=FLT_L Pin=R4-1
+Added Pin To Net: NetName=DVDD_L Pin=R4-2
+Added Pin To Net: NetName=OCP_L Pin=R5-1
+Added Pin To Net: NetName=DVDD_L Pin=R5-2
+Added Pin To Net: NetName=SNS_L Pin=R6-1
+Added Pin To Net: NetName=DVDD_L Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=SP_L Pin=R7-2
+Added Pin To Net: NetName=IDRV_L Pin=R8-1
+Added Pin To Net: NetName=AVDD_L Pin=R8-2
+Added Pin To Net: NetName=Vref_L Pin=R9-1
+Added Pin To Net: NetName=AVDD_L Pin=R9-2
+Added Pin To Net: NetName=Vref_L Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R11-2
+Added Pin To Net: NetName=VCP_R Pin=R12-1
+Added Pin To Net: NetName=RP_R_C Pin=R12-2
+Added Pin To Net: NetName=NFLT_R Pin=R13-1
+Added Pin To Net: NetName=DVDD_R Pin=R13-2
+Added Pin To Net: NetName=FLT_R Pin=R14-1
+Added Pin To Net: NetName=DVDD_R Pin=R14-2
+Added Pin To Net: NetName=OCP_R Pin=R15-1
+Added Pin To Net: NetName=DVDD_R Pin=R15-2
+Added Pin To Net: NetName=SNS_R Pin=R16-1
+Added Pin To Net: NetName=DVDD_R Pin=R16-2
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=SP_R Pin=R17-2
+Added Pin To Net: NetName=IDRV_R Pin=R18-1
+Added Pin To Net: NetName=AVDD_R Pin=R18-2
+Added Pin To Net: NetName=Vref_R Pin=R19-1
+Added Pin To Net: NetName=AVDD_R Pin=R19-2
+Added Pin To Net: NetName=Vref_R Pin=R20-1
+Added Pin To Net: NetName=GND Pin=R20-2
+Added Pin To Net: NetName=VM_L Pin=U1-1
+Added Pin To Net: NetName=VCP_L Pin=U1-2
+Added Pin To Net: NetName=CPH_L Pin=U1-3
+Added Pin To Net: NetName=CPL_L Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=Vref_L Pin=U1-6
+Added Pin To Net: NetName=AVDD_L Pin=U1-7
+Added Pin To Net: NetName=DVDD_L Pin=U1-8
+Added Pin To Net: NetName=FLT_L Pin=U1-9
+Added Pin To Net: NetName=SNS_L Pin=U1-10
+Added Pin To Net: NetName=IDRV_L Pin=U1-12
+Added Pin To Net: NetName=SLP_L Pin=U1-13
+Added Pin To Net: NetName=EN_L/IN2_L Pin=U1-14
+Added Pin To Net: NetName=DIR_L/IN1_L Pin=U1-15
+Added Pin To Net: NetName=GND Pin=U1-16
+Added Pin To Net: NetName=GH1_L Pin=U1-17
+Added Pin To Net: NetName=VL+ Pin=U1-18
+Added Pin To Net: NetName=GL1_L Pin=U1-19
+Added Pin To Net: NetName=GND Pin=U1-20
+Added Pin To Net: NetName=SP_L Pin=U1-21
+Added Pin To Net: NetName=GL2_L Pin=U1-22
+Added Pin To Net: NetName=VL- Pin=U1-23
+Added Pin To Net: NetName=GH2_L Pin=U1-24
+Added Pin To Net: NetName=GND Pin=U1-25
+Added Pin To Net: NetName=VM_L Pin=U2-1
+Added Pin To Net: NetName=VCP_R Pin=U2-2
+Added Pin To Net: NetName=CPH_R Pin=U2-3
+Added Pin To Net: NetName=CPL_R Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=Vref_R Pin=U2-6
+Added Pin To Net: NetName=AVDD_R Pin=U2-7
+Added Pin To Net: NetName=DVDD_R Pin=U2-8
+Added Pin To Net: NetName=FLT_R Pin=U2-9
+Added Pin To Net: NetName=SNS_R Pin=U2-10
+Added Pin To Net: NetName=IDRV_R Pin=U2-12
+Added Pin To Net: NetName=SLP_R Pin=U2-13
+Added Pin To Net: NetName=EN_R/IN2_R Pin=U2-14
+Added Pin To Net: NetName=DIR_R/IN1_R Pin=U2-15
+Added Pin To Net: NetName=GND Pin=U2-16
+Added Pin To Net: NetName=GH1_R Pin=U2-17
+Added Pin To Net: NetName=VR+ Pin=U2-18
+Added Pin To Net: NetName=GL1_R Pin=U2-19
+Added Pin To Net: NetName=GND Pin=U2-20
+Added Pin To Net: NetName=SP_R Pin=U2-21
+Added Pin To Net: NetName=GL2_R Pin=U2-22
+Added Pin To Net: NetName=VR- Pin=U2-23
+Added Pin To Net: NetName=GH2_R Pin=U2-24
+Added Pin To Net: NetName=GND Pin=U2-25
+Added Member To Class: ClassName=Main Member=Component C1 0.1UF
+Added Member To Class: ClassName=Main Member=Component C2 10UF
+Added Member To Class: ClassName=Main Member=Component C3 1UF
+Added Member To Class: ClassName=Main Member=Component C4 0.1UF
+Added Member To Class: ClassName=Main Member=Component C5 1UF
+Added Member To Class: ClassName=Main Member=Component C6 1UF
+Added Member To Class: ClassName=Main Member=Component C7 0.1UF
+Added Member To Class: ClassName=Main Member=Component C8 10UF
+Added Member To Class: ClassName=Main Member=Component C9 1UF
+Added Member To Class: ClassName=Main Member=Component C10 0.1UF
+Added Member To Class: ClassName=Main Member=Component C11 1UF
+Added Member To Class: ClassName=Main Member=Component C12 1UF
+Added Member To Class: ClassName=Main Member=Component D1 CDBA3100-HF
+Added Member To Class: ClassName=Main Member=Component D2 SMBJ36A
+Added Member To Class: ClassName=Main Member=Component D3 YELLOW
+Added Member To Class: ClassName=Main Member=Component D4 RED
+Added Member To Class: ClassName=Main Member=Component D5 SMBJ36A
+Added Member To Class: ClassName=Main Member=Component D6 CDBA3100-HF
+Added Member To Class: ClassName=Main Member=Component D7 YELLOW
+Added Member To Class: ClassName=Main Member=Component D8 RED
+Added Member To Class: ClassName=Main Member=Component F1 FUSE 5x20 Holder
+Added Member To Class: ClassName=Main Member=Component F2 FUSE 5x20 Holder
+Added Member To Class: ClassName=Main Member=Component FET1 STP75NF75
+Added Member To Class: ClassName=Main Member=Component FET2 STP75NF75
+Added Member To Class: ClassName=Main Member=Component FET3 STP75NF75
+Added Member To Class: ClassName=Main Member=Component FET4 STP75NF75
+Added Member To Class: ClassName=Main Member=Component FET5 STP75NF75
+Added Member To Class: ClassName=Main Member=Component FET6 STP75NF75
+Added Member To Class: ClassName=Main Member=Component FET7 STP75NF75
+Added Member To Class: ClassName=Main Member=Component FET8 STP75NF75
+Added Member To Class: ClassName=Main Member=Component FET9 STP75NF75
+Added Member To Class: ClassName=Main Member=Component FET10 STP75NF75
+Added Member To Class: ClassName=Main Member=Component HS1 HSS-B20-NP-06
+Added Member To Class: ClassName=Main Member=Component HS2 HSS-B20-NP-06
+Added Member To Class: ClassName=Main Member=Component HS3 HSS-B20-NP-06
+Added Member To Class: ClassName=Main Member=Component HS4 HSS-B20-NP-06
+Added Member To Class: ClassName=Main Member=Component HS5 HSS-B20-NP-06
+Added Member To Class: ClassName=Main Member=Component HS6 HSS-B20-NP-06
+Added Member To Class: ClassName=Main Member=Component HS7 HSS-B20-NP-06
+Added Member To Class: ClassName=Main Member=Component HS8 HSS-B20-NP-06
+Added Member To Class: ClassName=Main Member=Component HS9 HSS-B20-NP-06
+Added Member To Class: ClassName=Main Member=Component HS10 HSS-B20-NP-06
+Added Member To Class: ClassName=Main Member=Component J1 2POS
+Added Member To Class: ClassName=Main Member=Component J2 2POS
+Added Member To Class: ClassName=Main Member=Component J3 CONN 5
+Added Member To Class: ClassName=Main Member=Component J4 2POS
+Added Member To Class: ClassName=Main Member=Component J5 CONN 5
+Added Member To Class: ClassName=Main Member=Component J6 2POS
+Added Member To Class: ClassName=Main Member=Component MH1 M3
+Added Member To Class: ClassName=Main Member=Component MH2 M3
+Added Member To Class: ClassName=Main Member=Component MH3 M3
+Added Member To Class: ClassName=Main Member=Component MH4 M3
+Added Member To Class: ClassName=Main Member=Component Q1 BC846B-7-F
+Added Member To Class: ClassName=Main Member=Component Q2 BC846B-7-F
+Added Member To Class: ClassName=Main Member=Component R1 43K
+Added Member To Class: ClassName=Main Member=Component R2 10K
+Added Member To Class: ClassName=Main Member=Component R3 10K
+Added Member To Class: ClassName=Main Member=Component R4 10K
+Added Member To Class: ClassName=Main Member=Component R5 10K
+Added Member To Class: ClassName=Main Member=Component R6 10K
+Added Member To Class: ClassName=Main Member=Component R7 15mOhm
+Added Member To Class: ClassName=Main Member=Component R8 68K
+Added Member To Class: ClassName=Main Member=Component R9 2K
+Added Member To Class: ClassName=Main Member=Component R10 3.3K
+Added Member To Class: ClassName=Main Member=Component R11 43K
+Added Member To Class: ClassName=Main Member=Component R12 10K
+Added Member To Class: ClassName=Main Member=Component R13 10K
+Added Member To Class: ClassName=Main Member=Component R14 10K
+Added Member To Class: ClassName=Main Member=Component R15 10K
+Added Member To Class: ClassName=Main Member=Component R16 10K
+Added Member To Class: ClassName=Main Member=Component R17 15mOhm
+Added Member To Class: ClassName=Main Member=Component R18 68K
+Added Member To Class: ClassName=Main Member=Component R19 2K
+Added Member To Class: ClassName=Main Member=Component R20 3.3K
+Added Member To Class: ClassName=Main Member=Component U1 DRV8701PRGER
+Added Member To Class: ClassName=Main Member=Component U2 DRV8701PRGER

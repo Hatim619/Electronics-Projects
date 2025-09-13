@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VM_L Pin=C19-2
+Removed Pin From Net: NetName=VM_L Pin=U2-1
+Added Pin To Net: NetName=VM_R_ Pin=C19-2
+Added Pin To Net: NetName=VM_R_ Pin=U2-1

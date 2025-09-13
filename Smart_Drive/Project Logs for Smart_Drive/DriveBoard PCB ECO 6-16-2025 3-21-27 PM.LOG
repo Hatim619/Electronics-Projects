@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=NetF1_1 New Net Name=Vin_L
+Change Net Name : Old Net Name=NetF2_1 New Net Name=Vin_R
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3

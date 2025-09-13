@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=VR+ Pin=J6-1
+Removed Pin From Net: NetName=VR- Pin=J6-2
+Removed Pin From Net: NetName=GND Pin=Motor A PWR IN-1
+Removed Pin From Net: NetName=Vin_L Pin=Motor A PWR IN-2
+Removed Pin From Net: NetName=VL+ Pin=Motor A PWR OUT-1
+Removed Pin From Net: NetName=VL- Pin=Motor A PWR OUT-2
+Removed Pin From Net: NetName=GND Pin=Motor B PWR IN-1
+Removed Pin From Net: NetName=Vin_R Pin=Motor B PWR IN-2
+Added Pin To Net: NetName=Vin_L Pin=Motor A PWR IN-1
+Added Pin To Net: NetName=GND Pin=Motor A PWR IN-2
+Added Pin To Net: NetName=VL- Pin=Motor A PWR OUT-1
+Added Pin To Net: NetName=VL+ Pin=Motor A PWR OUT-2
+Added Pin To Net: NetName=Vin_R Pin=Motor B PWR IN-1
+Added Pin To Net: NetName=GND Pin=Motor B PWR IN-2
+Added Pin To Net: NetName=VR- Pin=J6-1
+Added Pin To Net: NetName=VR+ Pin=J6-2
+Add Class Member: Failed to add class member : Component D4 RED
+Add Class Member: Failed to add class member : Component HS9 HSS-B20-NP-06
+Add Class Member: Failed to add class member : Component HS10 HSS-B20-NP-06
+Add Class Member: Failed to add class member : Component J1 2POS

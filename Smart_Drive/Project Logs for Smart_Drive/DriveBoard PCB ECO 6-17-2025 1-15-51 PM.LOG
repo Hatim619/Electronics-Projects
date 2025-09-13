@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=DVDD_L Pin=J3-1
+Removed Pin From Net: NetName=AVDD_L Pin=J3-2
+Removed Pin From Net: NetName=EN_L/IN2_L Pin=J3-3
+Removed Pin From Net: NetName=DIR_L/IN1_L Pin=J3-4
+Removed Pin From Net: NetName=SLP_L Pin=J3-5
+Removed Pin From Net: NetName=GND Pin=J3-6
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=DVDD_L Pin=J3-2
+Added Pin To Net: NetName=AVDD_L Pin=J3-3
+Added Pin To Net: NetName=EN_L/IN2_L Pin=J3-4
+Added Pin To Net: NetName=DIR_L/IN1_L Pin=J3-5
+Added Pin To Net: NetName=SLP_L Pin=J3-6

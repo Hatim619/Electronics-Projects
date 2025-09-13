@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=J3 Old DesignItemId=CONN 5 New DesignItemId=CONN 6_HF
+Change Component Footprint: Designator=J3 Old Footprint=CON: PLS-5 New Footprint=CON: PLS-6
+Change Component Comment : Designator=J3 Old Comment=CONN 5 New Comment=CONN 6_HF
+Added Pin To Net: NetName=GND Pin=J3-6
